@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pocketitems>
+    <!-- Achievement 0 keeps these replacement implementations out of the native pool. -->
+    <pilleffect name="Telepills (Rebalanced)" class="1" mimiccharge="2" achievement="0" announcer="369" announcer2="779" />
+    <pilleffect name="Tears Up (Rebalanced)" class="3+" mimiccharge="6" achievement="0" announcer="368" announcer2="776" />
+</pocketitems>

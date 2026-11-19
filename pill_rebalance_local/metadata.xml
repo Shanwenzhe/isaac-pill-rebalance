@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>药丸再平衡与诸神符文 / Pill Rebalance &amp; Ansuz</name>
+    <directory>pill_rebalance_local</directory>
+    <id>3842336996</id>
+    <description>忏悔+ 1.5.5 测试版。调整传送胶囊、射速上升和我找到枚怪药。诸神符文在原版小地图显示红房。支持可选 EID 中英文说明。已知问题：先用该隐魂石开红房，进入后使用诸神符文，部分新红门可以直接通行。</description>
+    <version>1.5.7</version>
+    <visibility>Friends Only</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
